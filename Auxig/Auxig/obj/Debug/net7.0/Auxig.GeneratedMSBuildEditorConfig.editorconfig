@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Auxig
+build_property.RootNamespace = Auxig
+build_property.ProjectDir = D:\Projecto\Auxig\Auxig\Auxig\Auxig\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Projecto\Auxig\Auxig\Auxig\Auxig
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Projecto/Auxig/Auxig/Auxig/Auxig/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projecto/Auxig/Auxig/Auxig/Auxig/Components/Layout/FooterMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcRm9vdGVyTWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projecto/Auxig/Auxig/Auxig/Auxig/Components/Layout/SideMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcU2lkZU1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projecto/Auxig/Auxig/Auxig/Auxig/Components/Layout/TopMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcVG9wTWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projecto/Auxig/Auxig/Auxig/Auxig/Components/TodoApp/TodoItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUb2RvQXBwXFRvZG9JdGVtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projecto/Auxig/Auxig/Auxig/Auxig/Components/TodoApp/TodoItems.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUb2RvQXBwXFRvZG9JdGVtcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projecto/Auxig/Auxig/Auxig/Auxig/Layouts/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0c1xNYWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projecto/Auxig/Auxig/Auxig/Auxig/Pages/Dashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projecto/Auxig/Auxig/Auxig/Auxig/Pages/SimpleFormPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2ltcGxlRm9ybVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projecto/Auxig/Auxig/Auxig/Auxig/Pages/TodoAppPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9kb0FwcFBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projecto/Auxig/Auxig/Auxig/Auxig/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projecto/Auxig/Auxig/Auxig/Auxig/Components/Layout/ThemeColorSelector.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcVGhlbWVDb2xvclNlbGVjdG9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-7ytohynby9
