@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Auxig
 build_property.RootNamespace = Auxig
-build_property.ProjectDir = D:\Projecto\Auxig\Auxig\
+build_property.ProjectDir = /home/paulr/Documents/Auxig/Auxig/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Projecto\Auxig\Auxig
+build_property.MSBuildProjectDirectory = /home/paulr/Documents/Auxig/Auxig
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Projecto/Auxig/Auxig/App.razor]
+[/home/paulr/Documents/Auxig/Auxig/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projecto/Auxig/Auxig/Components/Layout/FooterMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcRm9vdGVyTWVudS5yYXpvcg==
+[/home/paulr/Documents/Auxig/Auxig/Components/Layout/FooterMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvRm9vdGVyTWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projecto/Auxig/Auxig/Components/Layout/SideMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcU2lkZU1lbnUucmF6b3I=
+[/home/paulr/Documents/Auxig/Auxig/Components/Layout/SideMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvU2lkZU1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projecto/Auxig/Auxig/Components/Layout/TopMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcVG9wTWVudS5yYXpvcg==
+[/home/paulr/Documents/Auxig/Auxig/Components/Layout/TopMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvVG9wTWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projecto/Auxig/Auxig/Components/TodoApp/TodoItem.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUb2RvQXBwXFRvZG9JdGVtLnJhem9y
+[/home/paulr/Documents/Auxig/Auxig/Components/TodoApp/TodoItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Ub2RvQXBwL1RvZG9JdGVtLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projecto/Auxig/Auxig/Components/TodoApp/TodoItems.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUb2RvQXBwXFRvZG9JdGVtcy5yYXpvcg==
+[/home/paulr/Documents/Auxig/Auxig/Components/TodoApp/TodoItems.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Ub2RvQXBwL1RvZG9JdGVtcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projecto/Auxig/Auxig/Layouts/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0c1xNYWluTGF5b3V0LnJhem9y
+[/home/paulr/Documents/Auxig/Auxig/Layouts/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0cy9NYWluTGF5b3V0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projecto/Auxig/Auxig/Pages/Dashboard.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkLnJhem9y
+[/home/paulr/Documents/Auxig/Auxig/Pages/Dashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGFzaGJvYXJkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projecto/Auxig/Auxig/Pages/SimpleFormPage.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2ltcGxlRm9ybVBhZ2UucmF6b3I=
+[/home/paulr/Documents/Auxig/Auxig/Pages/SimpleFormPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2ltcGxlRm9ybVBhZ2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projecto/Auxig/Auxig/Pages/TodoAppPage.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9kb0FwcFBhZ2UucmF6b3I=
+[/home/paulr/Documents/Auxig/Auxig/Pages/TodoAppPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVG9kb0FwcFBhZ2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projecto/Auxig/Auxig/_Imports.razor]
+[/home/paulr/Documents/Auxig/Auxig/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projecto/Auxig/Auxig/Components/Layout/ThemeColorSelector.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcVGhlbWVDb2xvclNlbGVjdG9yLnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-7ytohynby9
+[/home/paulr/Documents/Auxig/Auxig/Components/Layout/ThemeColorSelector.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvVGhlbWVDb2xvclNlbGVjdG9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-xri618v4fp

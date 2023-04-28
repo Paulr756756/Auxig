@@ -3,7 +3,7 @@
 @inject IJSRuntime JSRuntime ;
 
 <Div><canvas>Waveform</canvas></Div>
-
+<Div>
 <DisplayHeading Size="DisplayHeadingSize.Is3">General Controls</DisplayHeading>
 
 <Paragraph>
@@ -24,6 +24,8 @@
 <Switch TValue="bool" ElementId="filterSwitch" @bind-Checked="@filterOn" data-filteron="false">Filter</Switch>
 
 @*<button id="filterButton" role="switch" data-filteron="false" aria-pressed="false" aria-describedby="label">Filter on</button>*@
+</Div>
+
 <audio src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/858/outfoxing.mp3" crossorigin="anonymous" controls id="audioElement" />
 
     @code {
