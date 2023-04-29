@@ -1,6 +1,6 @@
 ﻿@page "/"
 @inject IVersionProvider VersionProvider;
-@inject IJSRuntime JSRuntime ;
+@inject IJSRuntime JSRuntime;
 
 <Tabs RenderMode="TabsRenderMode.LazyLoad" SelectedTab="tab1">
     <Items>
@@ -21,42 +21,17 @@
     </Content>
 </Tabs>
 
-<Div>
-    <DisplayHeading Size="DisplayHeadingSize.Is3">General Controls</DisplayHeading>
-    
-<Paragraph>
-    <Button ElementId="powerButton" @onclick="StartAudioService">Power On/Off </Button>
-    <Button ElementId="playButton">Play</Button> <Button ElementId="pauseButton">Pause</Button>
-    <Field> <FileEdit id="audioPicker" /> </Field>
-</Paragraph>
-
-<Paragraph>Volume : @volumeValue </Paragraph>
-<Field>
-    <Slider ElementId="volumeControl" @bind-Value="@volumeValue" Max="1" Min="-0.5" Step="0.01" />
-</Field>
-
-<Paragraph>Panner : @pannerValue </Paragraph>
-<Field>
-    <Slider ElementId="pannerControl" @bind-Value="@pannerValue" Max="1" Min="-1" Step="0.01" />
-</Field>
-<Switch TValue="bool" ElementId="filterSwitch" @bind-Checked="@filterOn" data-filteron="false">Filter</Switch>
-
-</Div>
+<Auxig.Components.Audio_Controls.GeneralControls/>
 
 <audio src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/858/outfoxing.mp3" crossorigin="anonymous" controls id="audioElement" />
 
-    @code {
-        double volumeValue = .5;
-        double pannerValue = 0;
-        bool filterOn = false;
+@code {
+    
 
     public async Task StartAudioService()
     {
         await JSRuntime.InvokeVoidAsync("interopFunctions.InitializeApi");
         //await JSRuntime.InvokeVoidAsync("interopFunctions.PanControl");
     }
-    public async Task ChangeHandler()
-    {
-        await JSRuntime.InvokeVoidAsync("ChangeHandler");
-    }
+    
 }

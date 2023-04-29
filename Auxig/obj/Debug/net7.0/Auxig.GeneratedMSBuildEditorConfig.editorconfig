@@ -20,6 +20,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/paulr/Documents/Auxig/Auxig/Components/Audio Controls/GeneralControls.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BdWRpbyBDb250cm9scy9HZW5lcmFsQ29udHJvbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/paulr/Documents/Auxig/Auxig/Components/Layout/FooterMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvRm9vdGVyTWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
