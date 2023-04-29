@@ -1,6 +1,6 @@
 var _audioContext, track, _audioElement, playButton, gainNode;
 var input, analyser, dataArray, bufferLength, stream;
-
+var tabList;
 window.interopFunctions = {
 	InitializeApi: function () {
 		if (_audioContext == null) {
@@ -13,6 +13,15 @@ window.interopFunctions = {
 
 
 			track = _audioContext.createMediaElementSource(_audioElement);
+
+			tabList = document.querySelector("#tabList");
+			tabList.addEventListener(
+				"change",
+				() => {
+					AudioVisualiser();
+				}
+			)
+			
 			// stream =_audioContext.create
 			//Initializing event listeners
 			this.PlaySound();
@@ -31,6 +40,8 @@ window.interopFunctions = {
 		// 	// if(_audioContext.state == "running") _audioContext.suspend();
 
 		// 	console.log(_audioContext.state);
+
+		
 	},
 
 	PlaySound: function () {
